@@ -26,3 +26,6 @@ logs
 # wrangler files
 .wrangler
 .dev.vars
+
+.wrangler/state/v3
+.vscode/numbered-bookmarks.json
